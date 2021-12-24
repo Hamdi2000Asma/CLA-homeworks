@@ -1,7 +1,4 @@
 #Q1
-from os import X_OK, error
-
-
 student_nam =open("C:/Users/Timgad informatique/Desktop/CLA-homeworks/student_names.txt","r+")
 #Q2
 names =["\njoujou","\nnadia","\nsalah","\nmohammed","\nrami"]
